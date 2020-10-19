@@ -1,0 +1,254 @@
+.clean
+ {
+
+float: right;
+word-spacing: 10px;
+padding-right: 30px;
+padding-top: 20px;
+
+}
+
+
+
+.word
+{
+position: absolute;
+top: 30px;
+font-size: 18px;
+left: 37px;
+
+}
+
+.redC
+
+{
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 117px;
+top: 30px;
+border-radius: 100%;
+background: #FC4F13;
+
+
+}
+.yellowC 
+{
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 121px;
+top: 27px;
+background: rgba(255, 255, 0, 0.79);
+border-radius: 100%;
+
+}
+
+.one
+{
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 28.48px;
+height: 66.45px;
+left: 510px;
+top: 115.29px;
+border-radius: 80%;
+background: rgba(252, 19, 61, 0.63);
+transform: matrix(0.44, -0.9, -0.9, -0.44, 0, 0);
+
+
+}
+
+.two
+{
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 28.48px;
+height: 66.45px;
+left: 520px;
+top: 101.46px;
+border-radius: 80%;
+background: rgba(252, 79, 19, 0.71);
+transform: matrix(0.86, -0.51, -0.51, -0.86, 0, 0);
+
+}
+
+.three
+{
+
+    /* Ellipse 5 */
+
+position: absolute;
+width: 29px;
+height: 67px;
+left: 540px;
+top: 86.46px;
+border-radius: 80%;
+background: #FFFF00;
+
+
+}
+
+.four
+{
+
+    /* Ellipse 6 */
+
+position: absolute;
+width: 28.48px;
+height: 66.45px;
+left: 560px;
+top: 101.46px;
+border-radius: 80%;
+background: rgba(252, 79, 19, 0.71);
+transform: rotate(30.47deg);
+
+
+}
+
+.five
+{
+
+    /* Ellipse 8 */
+
+position: absolute;
+width: 28.48px;
+height: 66.45px;
+left: 570px;
+top: 115.29px;
+border-radius: 80%;
+background: rgba(252, 19, 61, 0.63);
+transform: rotate(63.9deg);
+
+}
+
+.c1
+{
+
+    /* Ellipse 10 */
+
+position: absolute;
+width: 13px;
+height: 11px;
+left: 548px;
+top: 174px;
+border-radius: 100%;
+background: #FFFF00;
+
+}
+
+.c2
+{
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 540px;
+top: 190px;
+border-radius: 100%;
+background: #FC4F13;
+
+}
+
+.c3
+{
+
+    /* Ellipse 11 */
+
+position: absolute;
+width: 9px;
+height: 7px;
+left: 526px;
+top: 203px;
+border-radius: 100%;
+background: #FFFF00;
+
+}
+
+.shadow
+{
+
+    /* Ellipse 15 */
+
+position: absolute;
+width: 103px;
+height: 62px;
+left: 475px;
+top: 155px;
+border-radius: 100%;
+background: linear-gradient(208.8deg, rgba(252, 19, 61, 0.32) -61.4%, rgba(252, 19, 61, 0) 102.57%);
+
+}
+
+.pic
+{
+float: left;
+    height: 230px;
+    width: 230px;
+    padding-left: 30px;
+padding-top: 250px;
+border-radius: 20%;
+
+}
+
+.footer{
+
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+   bottom: 0px;
+   margin-left: -8.3px;
+}
+
+.word2
+{
+position: absolute;
+top: 10px;
+font-size: 18px;
+left: 37px;
+
+}
+
+.redC2
+
+{
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 117px;
+top: 10px;
+border-radius: 100%;
+background: #FC4F13;
+
+
+}
+.yellowC2 
+{
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 121px;
+top: 7px;
+background: rgba(255, 255, 0, 0.79);
+border-radius: 100%;
+
+}
